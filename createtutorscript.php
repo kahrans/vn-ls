@@ -1,6 +1,6 @@
 <?php
 
-include('leadsquared.php');
+include('./php-library/leadsquared/leadsquared.php');
 
 define('LSQ_NAME', '<-- Name Of your Project -->');
 
